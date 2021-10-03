@@ -1,15 +1,28 @@
-# About the workshops | 1 HUCKLEBERRY branch
+# Huckleberry Agency Website
 
-#### Josh says:
+In this first workshop of mine, I am going to build a minimal landing page for an agency, a fictional consultancy.
 
-> _Workshops are **real-world-inspired problems**. The project and its goals are described in depth in the project's README file, though you'll be given the gist of the project here in the course materials. You might not be able to solve the workshop, and that's OK. Some workshops are super challenging. **It's about the journey, not the destination**._
+It's based on the mockups provided by Josh (see [Josh's README file](READMEofJoshs.md)).
 
-#### Here's the recommended path:
+I am going to use **FLOW LAYOUT**:
 
-1. If you get stuck or don't know how to proceed, you can **review the lessons** in this module.
-2. Spend up to **2 hours working on the problem**. If you get discouraged or frustrated, you can stop earlier!
-3. After you've invested a good chunk of time into the problem, **watch the solution video** (embedded in the next lesson). I'll show you how I'd approach this problem.
+* no flexbox
+* no grid
+* no absolute positioning
 
-> _Note that there are **many valid solutions** for most workshops; your solution might look quite different than mine, but that doesn't mean you did it wrong! As we went over in the onboarding video, though, you don't have to follow this approach! If you'd prefer, you can code along with the video. Or you can bounce between coding and watching the solution. This **course is for you**._
+The project relies heavily on:
 
-> _Once you're finished with the workshop (regardless of whether you've completed the exercises or not), you can **submit the link** to your solution. This is mainly to serve as an accountability tool. On occasion, I'll go through the submissions to see broadly where people are struggling, but **I don't offer individual reviews**._
+* padding
+* margin
+* border
+
+---
+
+At the moment I am working on it ... 🚧
+
+1. **forked** > my github repo created
+2. **cloned** > all the files downloaded onto my machine
+
+```
+npm clone git@github.com:jtrfs/huckleberry.git
+```
