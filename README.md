@@ -1,4 +1,4 @@
-# About the workshops | HUCKLEBERRY 1
+# About the workshops | 1 HUCKLEBERRY branch
 
 #### Josh says:
 
