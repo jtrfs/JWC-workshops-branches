@@ -1,15 +1,30 @@
-# About the workshops | 2 CREATE CHARACTER branch
+# Character Creator
 
-#### Josh says:
+In this workshop, I am asked to build a character creator for a Sims-style video game.
 
-> _Workshops are **real-world-inspired problems**. The project and its goals are described in depth in the project's README file, though you'll be given the gist of the project here in the course materials. You might not be able to solve the workshop, and that's OK. Some workshops are super challenging. **It's about the journey, not the destination**._
+It follows the mockups provided by Josh (see [Josh's README file](READMEofJoshs.md)).
 
-#### Here's the recommended path:
+This project is built with **REACT** and uses **CSS Modules**.. CSS modules are ultimately very similar to vanilla CSS, but the classes are applied in JS. Additionally, a few global styles can be found in src/index.css.
 
-1. If you get stuck or don't know how to proceed, you can **review the lessons** in this module.
-2. Spend up to **2 hours working on the problem**. If you get discouraged or frustrated, you can stop earlier!
-3. After you've invested a good chunk of time into the problem, **watch the solution video** (embedded in the next lesson). I'll show you how I'd approach this problem.
+## Exercises:
 
-> _Note that there are **many valid solutions** for most workshops; your solution might look quite different than mine, but that doesn't mean you did it wrong! As we went over in the onboarding video, though, you don't have to follow this approach! If you'd prefer, you can code along with the video. Or you can bounce between coding and watching the solution. This **course is for you**._
+#### Exercise 1: Fix footer links
 
-> _Once you're finished with the workshop (regardless of whether you've completed the exercises or not), you can **submit the link** to your solution. This is mainly to serve as an accountability tool. On occasion, I'll go through the submissions to see broadly where people are struggling, but **I don't offer individual reviews**._
+#### Exercise 2: Layout adjustments
+
+#### Exercise 3: Overflow
+
+#### Exercise 4: Perspective decoration
+
+#### Exercise 5 (Stretch): Implement a mobile variant
+
+---
+
+At the moment I am working on it ... 🚧
+
+1. **forked** > my github repo created
+2. **cloned** > all the files downloaded onto my machine
+
+```
+npm clone git@github.com:jtrfs/character-creator.git
+```
