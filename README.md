@@ -13,28 +13,3 @@
 > _Note that there are **many valid solutions** for most workshops; your solution might look quite different than mine, but that doesn't mean you did it wrong! As we went over in the onboarding video, though, you don't have to follow this approach! If you'd prefer, you can code along with the video. Or you can bounce between coding and watching the solution. This **course is for you**._
 
 > _Once you're finished with the workshop (regardless of whether you've completed the exercises or not), you can **submit the link** to your solution. This is mainly to serve as an accountability tool. On occasion, I'll go through the submissions to see broadly where people are struggling, but **I don't offer individual reviews**._
-
-## WORKSHOPS
-
-| No. | Workshop's Name  | Status | My Branch        | Solution |
-| :-: | :--------------- | :----: | :--------------- | :------- |
-|  1  | Huckleberry      |   ✅   | hucklebery       |          |
-|  2  | Create Character |   ✏️   | create-character |          |
-|  3  |                  |        |                  |          |
-|  4  |                  |        |                  |          |
-|  5  |                  |        |                  |          |
-
----
-
-### Structure of my repo/workflow
-
-`(practising git skills)`
-
-I am quite struggling to make it work ... 🧐
-
-1. my one repo, created locally and then remotely through gh cli. The idea is to have only one repository and then several different branches, each for individual workshops.
-2. creating a new local branch
-3. cloning Josh's workshop's repo onto the new branch
-4. setting the new/my remote for pushin and pulling
-5. pushing it to GitHub with a new README file
-6. working on the task
