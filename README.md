@@ -1,4 +1,4 @@
-# About the workshops
+# About the workshops | HUCKLEBERRY 1
 
 #### Josh says:
 
