@@ -18,8 +18,8 @@
 
 | No. | Workshop's Name  | Status | My Branch        | Solution |
 | :-: | :--------------- | :----: | :--------------- | :------- |
-|  1  | Huckleberry      |   ✅   | hucklebery       |          |
-|  2  | Create Character |   ✏️   | create-character |          |
+|  1  | Huckleberry      |   ✅   | [hucklebery](https://github.com/jtrfs/JWC-workshops-branches/tree/1-huckleberry)       |          |
+|  2  | Create Character |   ✏️   | [create-character](https://github.com/jtrfs/JWC-workshops-branches/tree/2-create-character) |          |
 |  3  |                  |        |                  |          |
 |  4  |                  |        |                  |          |
 |  5  |                  |        |                  |          |
@@ -30,11 +30,11 @@
 
 `(practising git skills)`
 
-I am quite struggling to make it work ... 🧐
+I am quite struggling to make it work ... 🧐. But I have probably succeeded 😎.
 
-1. my one repo, created locally and then remotely through gh cli. The idea is to have only one repository and then several different branches, each for individual workshops.
-2. creating a new local branch
-3. cloning Josh's workshop's repo onto the new branch
-4. setting the new/my remote for pushin and pulling
-5. pushing it to GitHub with a new README file
-6. working on the task
+1. One repository, created locally and then remotely through gh cli (just to try it). The idea is to have only one repo and then several different branches, each for individual workshops.
+2. On themain branch I am creating the md file and that's it.
+3. Creating a new local branch out of main branch ... rewriting the readme file.
+4. Getting just the zip file and dropping it in the folder/new branch space. Cloning makes it a mess. Not sure if it is possible like that.
+5. Setting the new/my remote branch for pushing and pulling. I think git push -u origin newBranch is necessary for it to work.
+6. Working on the task. Don't forget about git add, git commit, git push before leaving branches. Everything must by committed.
