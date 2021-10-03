@@ -22,9 +22,7 @@ This project is built with **REACT** and uses **CSS Modules**.. CSS modules are 
 
 At the moment I am working on it ... 🚧
 
-1. **forked** > my github repo created
-2. **cloned** > all the files downloaded onto my machine
+1. **workshop branch created** > my github repo is waiting for changes/pushes
+2. **folders and files activated** > all the files downloaded/unziped in the right place/branch
 
-```
-npm clone git@github.com:jtrfs/character-creator.git
-```
+
