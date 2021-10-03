@@ -30,6 +30,8 @@
 
 `(practising git skills)`
 
+I am quite struggling to make it work ... 🧐
+
 1. my one repo, created locally and then remotely through gh cli. The idea is to have only one repository and then several different branches, each for individual workshops.
 2. creating a new local branch
 3. cloning Josh's workshop's repo onto the new branch
