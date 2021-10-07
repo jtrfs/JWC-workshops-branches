@@ -2,7 +2,7 @@
 
 In this first workshop of mine, I am going to build a minimal landing page for an agency, a fictional consultancy.
 
-It's based on the mockups provided by Josh (see [Josh's README file](READMEofJoshs.md)).
+It's based on the mockups provided by Josh (see [Josh's README file](https://github.com/css-for-js/huckleberry)).
 
 I am going to use **FLOW LAYOUT**:
 
