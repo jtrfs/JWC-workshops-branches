@@ -18,13 +18,9 @@ The project relies heavily on:
 
 ---
 
-At the moment I am done 👍🏻
+1. **the workshop subfolder created** > workshop's **zip file** has been downloaded and unzipped in the **local git subfolder** and pushed into this repo
+`git add -A` and `git commit -m "Add the workshop's files"` and `git push`
+2. **the command `npm install` entered** > the node_modules folder with necessary packages created
+3. **the command `npm start` executed** > let's start coding ...
 
-1. **workshop branch created** > my github repo is waiting for changes/pushes
-2. **folders and files activated** > all the files downloaded/unzipped in the right place/branch
-
-```
-git add -A
-git commit -m "message"
-git push
-```
+... and I am done now ✅
