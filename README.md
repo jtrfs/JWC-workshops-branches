@@ -2,7 +2,7 @@
 
 In this workshop, I am asked to build a character creator for a Sims-style video game.
 
-It follows the mockups provided by Josh (see Josh's [README file](README-Josh.md)).
+It follows the mockups provided by Josh (see Josh's [README](https://github.com/css-for-js/character-creator) file).
 
 This project is built with **REACT** and uses **CSS Modules**.. CSS modules are ultimately very similar to vanilla CSS, but the classes are applied in JS. Additionally, a few global styles can be found in src/index.css.
 
